@@ -1,0 +1,5 @@
+{
+  "name": "Image Precision Analyzer",
+  "description": "A high-precision image analysis tool that allows users to track mouse coordinates, select specific regions (X, Y, X1, Y1), and perform AI-driven analysis on selected areas using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
